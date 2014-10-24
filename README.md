@@ -1,5 +1,6 @@
 Python SDK for RunAbove API
 ===========================
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/ne0ark/python-runabove?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 This is a Python SDK to use Instances and Object Storage on 
 [RunAbove](https://www.runabove.com). The SDK uses the simple API provided by 
